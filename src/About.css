@@ -1,0 +1,50 @@
+.about-page {
+    background-color: #000;
+    padding: 20px;
+  }
+  
+  .logo-wrapper {
+    text-align: center;
+  }
+  
+  .logo {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .header-section {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 30px;
+  }
+  
+  .header-title {
+    -webkit-text-stroke: 1px #00b7ff;
+    color: transparent;
+    font-size: 60px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #00b7ff;
+  }
+  
+  .cursive-text {
+    font-style: italic;
+  }
+  
+  @media (max-width: 767px) {
+    .header-title {
+      font-size: 30px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    .header-title {
+      font-size: 24px;
+    }
+  }
+  

@@ -1,0 +1,13 @@
+.navbar-item {
+    margin-left: 40px;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: bold;
+    font-size: 20px;
+    color: #e2e2e2;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-item:hover {
+    color: #00b7ff;
+  }
