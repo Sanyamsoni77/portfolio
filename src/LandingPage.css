@@ -132,11 +132,14 @@
 
 @media (max-width: 768px) {
   .navbar-list {
-    flex-direction: row; 
-    justify-content: center;
-    padding-top: 64px;
-    padding-right: 35px; 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 72px;
+    margin-right: 18px;
+    display: flex; 
   }
+  
 
   .navbar-item {
     margin: 0 10px; 
@@ -183,6 +186,16 @@
 .social-icons a:hover {
   color: #00b7ff;
 }
+
+.navbar-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 72px;
+  margin-right: 18px;
+  display: flex; 
+}
+
 
 @media (max-width: 767px) {
   .social-icons {
