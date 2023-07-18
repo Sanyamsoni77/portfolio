@@ -1,0 +1,13 @@
+Assignment React Project 
+Title - Portfolio Website 
+
+Submitted By : SANYAM SONI
+Registration No. - 322100698
+
+Please install the dependencies first by using command in terminal - npm install 
+THEN npm start
+
+Also, hosted this site on Versal -
+https://portfolio-pbi2asyhh-sanyamsoni77.vercel.app/
+
+
